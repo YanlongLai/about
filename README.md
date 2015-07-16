@@ -11,8 +11,8 @@ I am a full-stack Web designer and developer with almost 7-8 years of experience
  - NTUST College | Bachelor of Computer Science  
 
 ### Work Experience 經歷
- - [NSRRC] (http://www.nsrrc.org.tw/) | Assistant Engineer 2014 – until now
- - [LEADERG Inc.] (https://tw.leaderg.com/) (Startup) | Deputy Manager of R&D 2013 – 2014
+ - [NSRRC] (http://www.nsrrc.org.tw/) | Assistant Engineer `2014 – until now`
+ - [LEADERG Inc.] (https://tw.leaderg.com/) (Startup) | Deputy Manager of R&D `2013 – 2014`
 
 ### Project 作品
 Prototype  
