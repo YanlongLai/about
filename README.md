@@ -20,7 +20,7 @@ I am a full-stack Web designer and developer with almost 7-8 years of experience
  Build a new Data Center in NSRRC. The Data center can handle high data throughput transferred from the whole beamline stations. Responsible for all aspects of need from end-user stations, build java projects and user platform to complete the data arrangement, automation, storagement and analysis.
 
 
- - [ITRI] (https://www.itri.org.tw/) | Software Engineer of R&D `2009`    
+- [ITRI] (https://www.itri.org.tw/) | Software Engineer of R&D `2009`    
  
  Being an Engineer in Industrial Technology Research Institute. Develop map applications on website by PHP, Javascript, JQuery and AJAX.
 
