@@ -45,3 +45,46 @@ Academic Research
 
  - [pKNOT] (http://pknot.life.nctu.edu.tw): the protein KNOT web server
  - [WCN] (http://wcn.life.nctu.edu.tw): the Weighted Contact Number model on proteins
+
+
+### Resource 資源
+
+ - [HTML5 Boilerplate] (https://html5boilerplate.com/): HTML5 Boilerplate helps you build fast, robust, and adaptable web apps or sites. Kick-start your project with the combined knowledge and effort of 100s of developers, all in one little package.
+ - [Themeforest] (http://themeforest.net/): 19,314 Website Templates and Themes From $3 for HTML, Email, WordPress, PSD, Joomla, Magento and more
+ - []
+
+### Libary 資料庫
+ - Credits
+    - Animate.css
+    - Bootbox
+    - Bootstrap Datepicker
+    - Bootstrap Select
+    - Bootstrap Table
+    - Bootstrap Tagsinput
+    - Bootstrap Timepicker
+    - Bootstrap Validator
+    - Bootstrap Wizard
+    - Chosen
+    - Data Tables
+    - Dropzone
+    - Easy Pie Chart
+    - FastClick
+    - Flot Charts
+    - Foo Table
+    - Full Calendar
+    - Gauge.js
+    - jQuery resizeEnd
+    - Masked Input
+    - MetisMenu
+    - MorrisJS
+    - NanoScrollerJS
+    - noUiSlider
+    - Pace
+    - Sparkline
+    - Summernote
+    - Switchery
+ - Icons
+    - Font Awesome
+    - Skycons
+ - Images
+    - Unsplash
