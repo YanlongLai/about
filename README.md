@@ -77,7 +77,7 @@ Academic Research
     - Bootstrap Wizard
     - Chosen
     - Data Tables
-    - Dropzone: DropzoneJS is an open source library that provides drag’n’drop file uploads with image previews.
+    - Dropzone: `DropzoneJS is an open source library that provides drag’n’drop file uploads with image previews.`
     - Easy Pie Chart: Lightweight jQuery plugin to render and animate nice pie charts with the HTML5 canvas element.
     - FastClick: FastClick is a simple, easy-to-use library for eliminating the 300ms delay between a physical tap and the firing of a click event on mobile browsers. The aim is to make your application feel less laggy and more responsive while avoiding any interference with your current logic.
     - Flot Charts: Flot is a pure JavaScript plotting library for jQuery, with a focus on simple usage, attractive looks and interactive features.
