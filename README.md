@@ -25,35 +25,39 @@ I am a full-stack Web designer and developer with almost 7-8 years of experience
 
 
 ### Project 作品
-Prototype  
+ - Prototype  
 
- - [Comicr] (http://140.110.203.1/test_comicr/)  
- - [Balls Bouncing] (http://140.113.239.91/~MR9/balls/)  
- - [News] (http://140.113.239.91/~MR9/news/)  
- - [RandLunch] (http://140.113.239.91/~MR9/randLunch/)  
+    - [Comicr] (http://140.110.203.1/test_comicr/)  
+    - [Balls Bouncing] (http://140.113.239.91/~MR9/balls/)  
+    - [News] (http://140.113.239.91/~MR9/news/)  
+    - [RandLunch] (http://140.113.239.91/~MR9/randLunch/)  
 
-Startup  
+ - Startup  
 
- - [CircleStar] (http://member.icirclestar.com/)  
- - [MySNG] (http://goo.gl/Du68VX)  
- - [LEADERG] (https://tw.leaderg.com/)  
- - [LEADERG Coin] (http://leaderg.leadergstaging.com/mobile/coin/)  
- - Cloth Fit  
+    - [CircleStar] (http://member.icirclestar.com/)  
+    - [MySNG] (http://goo.gl/Du68VX)  
+    - [LEADERG] (https://tw.leaderg.com/)  
+    - [LEADERG Coin] (http://leaderg.leadergstaging.com/mobile/coin/)  
+    - Cloth Fit  
 
-Academic Research  
+ - Academic Research  
 
- - [pKNOT] (http://pknot.life.nctu.edu.tw): the protein KNOT web server
- - [WCN] (http://wcn.life.nctu.edu.tw): the Weighted Contact Number model on proteins
+    - [pKNOT] (http://pknot.life.nctu.edu.tw): the protein KNOT web server
+    - [WCN] (http://wcn.life.nctu.edu.tw): the Weighted Contact Number model on proteins
 
 
 ### Front-end 前端
+
  - 自動化
     - Grunt
+
  - QA
     - Mocha
+
  - 樣式引擎
     - Less
     - Handlebars
+
  - 精簡JS
     - CoffeeScript
 
@@ -61,7 +65,7 @@ Academic Research
 
  - [HTML5 Boilerplate] (https://html5boilerplate.com/): HTML5 Boilerplate helps you build fast, robust, and adaptable web apps or sites. Kick-start your project with the combined knowledge and effort of 100s of developers, all in one little package.
  - [Themeforest] (http://themeforest.net/): 19,314 Website Templates and Themes From $3 for HTML, Email, WordPress, PSD, Joomla, Magento and more
- - []
+ - [Wrapbootstrap] (https://Wrapbootstrap.com/)
 
 ### Libary 資料庫
  - Credits
