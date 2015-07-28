@@ -17,8 +17,7 @@ I am a full-stack Web designer and developer with almost 7-8 years of experience
 
 - [LEADERG Inc.] (https://tw.leaderg.com/) (Startup) | Deputy Manager of R&D `2013 – 2014`  
  
- Build a new Data Center in NSRRC. The Data center can handle high data throughput transferred from the whole beamline stations. Responsible for all aspects of need from end-user stations, build java projects and user platform to complete the data arrangement, automation, storagement and analysis.
-
+I managed a team to complete projects. Focus on web apps (web platforms), I developed them such as news' system, social extensions on webs, and application stories, etc. Based on LAMP framework, each kind of platforms can be build by our group. We have clearly purposes to solve the new challenges in the office.
 
 - [ITRI] (https://www.itri.org.tw/) | Software Engineer of R&D `2009`    
  
