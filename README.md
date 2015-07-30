@@ -2,15 +2,15 @@
 I am a full-stack Web designer and developer with almost 7-8 years of experience, especially on front-end and back- end development, database and UI/UX design. Based on LAMP, I can quickly to build a prototype by new ideas. Primary languages are PHP, JavaScript/node.js and jQuery for web apps; use C/C++ to core algorithms. Now I use sail.js, is a light real-time MVC framework, to build platforms and Data Centre Development in NSRRC.
 
 
-### Resume 履歷  
+## Resume 履歷  
  - [Online Resume] (http://www.doyoubuzz.com/yanlong-lai)
 
-### Education 學歷
+## Education 學歷
  - NCTU College | PhD of Bioinformatics  
  - NCTU College | Master of Bioinformatics  
  - NTUST College | Bachelor of Computer Science  
 
-### Work Experience 經歷
+## Work Experience 經歷
  - [NSRRC] (http://www.nsrrc.org.tw/) | Assistant Engineer `2014 – until now`
 
  Build a new Data Center in NSRRC. The Data center can handle high data throughput transferred from the whole beamline stations. Responsible for all aspects of need from end-user stations, build java projects and user platform to complete the data arrangement, automation, storagement and analysis.  
@@ -24,7 +24,7 @@ I am a full-stack Web designer and developer with almost 7-8 years of experience
  Being an Engineer in Industrial Technology Research Institute. Develop map applications on website by PHP, Javascript, JQuery and AJAX.
 
 
-### Project 作品
+## Project 作品
  - Prototype  
 
     - [Comicr] (http://140.110.203.1/test_comicr/) 
@@ -56,10 +56,14 @@ I am a full-stack Web designer and developer with almost 7-8 years of experience
     - [WCN] (http://wcn.life.nctu.edu.tw): the Weighted Contact Number model on proteins
 
 
-### Full Stack
+## Full Stack
  
  - UI/UX
     - bootstrap
+        * Install with [Bower](http://bower.io): `bower install bootstrap`.
+        * Install with [npm](https://www.npmjs.com): `npm install bootstrap`.
+        * Install with [Meteor](https://www.meteor.com): `meteor add twbs:bootstrap`.
+        * Install with [Composer](https://getcomposer.org): `composer require twbs/bootstrap`.
 
  - Automatic 自動化
     - Grunt
@@ -74,7 +78,7 @@ I am a full-stack Web designer and developer with almost 7-8 years of experience
  - Clear code 精簡
     - CoffeeScript
 
-### Resource 資源
+## Resource 資源
 
  - [HTML5 Boilerplate] (https://html5boilerplate.com/): HTML5 Boilerplate helps you build fast, robust, and adaptable web apps or sites. Kick-start your project with the combined knowledge and effort of 100s of developers, all in one little package.
 
@@ -84,7 +88,7 @@ I am a full-stack Web designer and developer with almost 7-8 years of experience
 
  - [Ionic] (http://codepen.io/ionic/public-list/): angular.js and libs
 
-### Libary 資料庫
+## Libary 資料庫
 
  - Credits
     - Animate.css
