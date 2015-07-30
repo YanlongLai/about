@@ -27,10 +27,20 @@ I am a full-stack Web designer and developer with almost 7-8 years of experience
 ### Project 作品
  - Prototype  
 
-    - [Comicr] (http://140.110.203.1/test_comicr/)  
+    - [Comicr] (http://140.110.203.1/test_comicr/) 
+        - It's a simple PHP parser bot to curl comic page for test. 
+        - I use reg expression to get contents and just show them in a simple web.
     - [Balls Bouncing] (http://140.113.239.91/~MR9/balls/)  
+        - Random balls bounce in the window
+        - Using HTML5, CSS3, JavaScript and canvas.
+    - [Galaxian]
+        - A game such as Galaxian by JavaScript
+        - You can control directions and shoot (SPACE).
     - [News] (http://140.113.239.91/~MR9/news/)  
-    - [RandLunch] (http://140.113.239.91/~MR9/randLunch/)  
+        - Write web spider to curl my news. 
+    - [RandLunch] (http://140.113.239.91/~MR9/randLunch/)
+        - Just for fun
+        - You can use it to select your lunch.
 
  - Startup  
 
