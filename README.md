@@ -4,11 +4,12 @@ I am a full-stack Web designer and developer with almost 7-8 years of experience
 
 ## Resume 履歷  
  - [Online Resume] (http://www.doyoubuzz.com/yanlong-lai)
+ - [LinkedIn] (https://tw.linkedin.com/pub/yan-long-lai/73/ba3/116)
 
 ## Education 學歷
- - NCTU College | PhD of Bioinformatics  
- - NCTU College | Master of Bioinformatics  
- - NTUST College | Bachelor of Computer Science  
+ - NCTU College | PhD of Bioinformatics `2008 - 2012`
+ - NCTU College | Master of Bioinformatics `2006 - 2008`
+ - NTUST College | Bachelor of Computer Science `2002 - 2006`
 
 ## Work Experience 經歷
  - [NSRRC] (http://www.nsrrc.org.tw/) | Assistant Engineer `2014 – until now`
