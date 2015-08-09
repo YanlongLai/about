@@ -133,3 +133,6 @@ I am a full-stack Web designer and developer with almost 7-8 years of experience
 
  - Images
     - Unsplash: `Free (do whatever you want) high-resolution photos.`
+
+ - Symbols
+    - [htmlarrows] (http://htmlarrows.com/) `HTML Arrows is a clean and comprehensive resource for all the hottest HTML symbols, entities, ASCII characters and Unicode hexadecimal values.`
