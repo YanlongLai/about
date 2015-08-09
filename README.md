@@ -103,23 +103,40 @@ I am a full-stack Web designer and developer with almost 7-8 years of experience
     - Bootstrap Wizard
     - Chosen
     - Data Tables
-    - Dropzone: `DropzoneJS is an open source library that provides drag’n’drop file uploads with image previews.`
-    - Easy Pie Chart: `Lightweight jQuery plugin to render and animate nice pie charts with the HTML5 canvas element.`
-    - FastClick: `FastClick is a simple, easy-to-use library for eliminating the 300ms delay between a physical tap and the firing of a click event on mobile browsers. The aim is to make your application feel less laggy and more responsive while avoiding any interference with your current logic.`
-    - Flot Charts: `Flot is a pure JavaScript plotting library for jQuery, with a focus on simple usage, attractive looks and interactive features.`
-    - Foo Table: `FooTable is a jQuery plugin that aims to make HTML tables on smaller devices look awesome – No matter how many columns of data you may have in them.`
-    - Full Calendar: `FullCalendar is a jQuery plugin that provides a full-sized, drag & drop event calendar like the one below. It uses AJAX to fetch events on-the-fly and is easily configured to use your own feed format. It is visually customizable with a rich API.`
-    - Gauge.js: `100% native and cool looking animated JavaScript/CoffeeScript gauge.`
-    - jQuery resizeEnd: `jQuery resizeEnd defines a special event that is fired when the JavaScript "resize" event has finished.`
-    - Masked Input: `It allows a user to more easily enter fixed width input where you would like them to enter the data in a certain format (dates<Plug>PeepOpenhone numbers, etc).`
-    - MetisMenu: `A jQuery menu plugin`
-    - MorrisJS: `good-looking charts shouldn't be difficult`
-    - NanoScrollerJS: `is a jQuery plugin that offers a simplistic way of implementing Mac OS X Lion-styled scrollbars for your website.`
-    - noUiSlider: `lightweight JavaScript range slider noUiSlider is a range slider without bloat.`
-    - #Pace: `Automatic page load progress bar`
-    - Sparkline: `This jQuery plugin generates sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via javascript.`
-    - Summernote: `Super Simple WYSIWYG Editor on Bootstrap`
-    - Switchery: `Switchery is a simple component that helps you turn your default HTML checkbox inputs into beautiful iOS 7 style switches in just few simple steps.`
+    - Dropzone: 
+        - DropzoneJS is an open source library that provides drag’n’drop file uploads with image previews.
+    - Easy Pie Chart: 
+        - Lightweight jQuery plugin to render and animate nice pie charts with the HTML5 canvas element.
+    - FastClick: 
+        - FastClick is a simple, easy-to-use library for eliminating the 300ms delay between a physical tap and the firing of a click event on mobile browsers. The aim is to make your application feel less laggy and more responsive while avoiding any interference with your current logic.
+    - Flot Charts: 
+        - Flot is a pure JavaScript plotting library for jQuery, with a focus on simple usage, attractive looks and interactive features.
+    - Foo Table: 
+        - FooTable is a jQuery plugin that aims to make HTML tables on smaller devices look awesome – No matter how many columns of data you may have in them.
+    - Full Calendar: 
+        - FullCalendar is a jQuery plugin that provides a full-sized, drag & drop event calendar like the one below. It uses AJAX to fetch events on-the-fly and is easily configured to use your own feed format. It is visually customizable with a rich API.
+    - Gauge.js: 
+        - 100% native and cool looking animated JavaScript/CoffeeScript gauge.
+    - jQuery resizeEnd: 
+        - jQuery resizeEnd defines a special event that is fired when the JavaScript "resize" event has finished.
+    - Masked Input: 
+        - It allows a user to more easily enter fixed width input where you would like them to enter the data in a certain format (dates<Plug>PeepOpenhone numbers, etc).
+    - MetisMenu: 
+        - A jQuery menu plugin
+    - MorrisJS: 
+        - good-looking charts shouldn't be difficult
+    - NanoScrollerJS: 
+        - is a jQuery plugin that offers a simplistic way of implementing Mac OS X Lion-styled scrollbars for your website.
+    - noUiSlider: 
+        - lightweight JavaScript range slider noUiSlider is a range slider without bloat.
+    - #Pace: 
+        - Automatic page load progress bar
+    - Sparkline: 
+        - This jQuery plugin generates sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via javascript.
+    - Summernote: 
+        - Super Simple WYSIWYG Editor on Bootstrap
+    - Switchery: 
+        - Switchery is a simple component that helps you turn your default HTML checkbox inputs into beautiful iOS 7 style switches in just few simple steps.
 
  - Tools
     - [One Page Scroll] (https://github.com/peachananr/onepage-scroll)
@@ -127,12 +144,19 @@ I am a full-stack Web designer and developer with almost 7-8 years of experience
     - [fullPage.js] (http://alvarotrigo.com/fullPage/)
         - Create Beautiful Fullscreen Scrolling Websites
 
+ - Design
+    - [Material design] (https://www.google.com/design/spec/material-design/introduction.html)
+
  - Icons
-    - #Font Awesome: `The iconic font and CSS toolkit`
-    - Skycons: `is a set of ten animated weather glyphs, procedurally generated by JavaScript using the HTML5 canvas tag.`
+    - #Font Awesome: 
+        - The iconic font and CSS toolkit
+    - Skycons: 
+        - is a set of ten animated weather glyphs, procedurally generated by JavaScript using the HTML5 canvas tag.
 
  - Images
-    - Unsplash: `Free (do whatever you want) high-resolution photos.`
+    - Unsplash: 
+        - Free (do whatever you want) high-resolution photos.
 
  - Symbols
-    - [htmlarrows] (http://htmlarrows.com/) `HTML Arrows is a clean and comprehensive resource for all the hottest HTML symbols, entities, ASCII characters and Unicode hexadecimal values.`
+    - [htmlarrows] (http://htmlarrows.com/) 
+        - HTML Arrows is a clean and comprehensive resource for all the hottest HTML symbols, entities, ASCII characters and Unicode hexadecimal values.
