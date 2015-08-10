@@ -79,6 +79,8 @@ I am a full-stack Web designer and developer with almost 7-8 years of experience
  - Clear code 精簡
     - CoffeeScript
 
+ - [Coding Style] (https://github.com/airbnb/javascript)
+
 ## Resource 資源
 
  - [HTML5 Boilerplate] (https://html5boilerplate.com/): HTML5 Boilerplate helps you build fast, robust, and adaptable web apps or sites. Kick-start your project with the combined knowledge and effort of 100s of developers, all in one little package.
