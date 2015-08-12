@@ -68,6 +68,9 @@ I am a full-stack Web designer and developer with almost 7-8 years of experience
 
  - Automatic 自動化
     - Grunt
+    - Glut
+    - webpack
+        - webpack is a bundler for modules. The main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
 
  - QA
     - Mocha
