@@ -74,6 +74,7 @@ I am a full-stack Web designer and developer with almost 7-8 years of experience
 
  - QA
     - Mocha
+    - SuperTest + should.js
 
  - Template engine 樣式引擎
     - Less
