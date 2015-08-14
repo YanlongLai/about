@@ -72,11 +72,11 @@ I am a full-stack Web designer and developer with almost 7-8 years of experience
         * Install with [npm](https://www.npmjs.com): `npm install bootstrap`.
         * Install with [Meteor](https://www.meteor.com): `meteor add twbs:bootstrap`.
         * Install with [Composer](https://getcomposer.org): `composer require twbs/bootstrap`.
-    - RWS Design
+    - RWD
         - [Media Queries] (http://mediaqueri.es/)   
           ![alt tag](https://github.com/YanlongLai/about/blob/master/img/building.gif)
         - example
-            - [RWS Design] (http://codepen.io/YanlongLai/pen/KpYBoN)
+            - [demo01] (http://codepen.io/YanlongLai/pen/KpYBoN)
 
  - Automatic 自動化
     - Grunt
