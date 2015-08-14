@@ -45,16 +45,23 @@ I am a full-stack Web designer and developer with almost 7-8 years of experience
 
  - Startup  
 
-    - [CircleStar] (http://member.icirclestar.com/)  
+    - [CircleStar] (http://member.icirclestar.com/) 
+        - A user management system
     - [MySNG] (http://goo.gl/Du68VX)  
+        - Real-time video streaming
     - [LEADERG] (https://tw.leaderg.com/)  
+        - A social web about ROBOT
     - [LEADERG Coin] (http://leaderg.leadergstaging.com/mobile/coin/)  
+        - A Virtual money system for mobile web
     - Cloth Fit  
+        - 3D Cloth fit system
 
  - Academic Research  
 
-    - [pKNOT] (http://pknot.life.nctu.edu.tw): the protein KNOT web server
-    - [WCN] (http://wcn.life.nctu.edu.tw): the Weighted Contact Number model on proteins
+    - [pKNOT] (http://pknot.life.nctu.edu.tw)
+        - the protein KNOT web server
+    - [WCN] (http://wcn.life.nctu.edu.tw)
+        - the Weighted Contact Number model on proteins
 
 
 ## Full Stack
@@ -68,13 +75,18 @@ I am a full-stack Web designer and developer with almost 7-8 years of experience
 
  - Automatic 自動化
     - Grunt
+        - The JavaScript Task Runner
     - Glut
+        - GLUT (pronounced like the glut in gluttony) is the OpenGL Utility Toolkit, a window system independent toolkit for writing OpenGL programs.
     - webpack
         - webpack is a bundler for modules. The main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
 
  - QA
     - Mocha
+        - Mocha is a feature-rich JavaScript test framework running on Node.js and the browser, making asynchronous testing simple and fun. 
     - SuperTest + should.js
+        - The motivation with this module is to provide a high-level abstraction for testing HTTP, while still allowing you to drop down to the lower-level API provided by super-agent.
+        - should is an expressive, readable, framework-agnostic assertion library. The main goals of this library are to be expressive and to be helpful. It keeps your test code clean, and your error messages helpful.
 
  - Template engine 樣式引擎
     - Less
