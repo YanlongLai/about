@@ -75,7 +75,6 @@ I am a full-stack Web designer and developer with almost 7-8 years of experience
         * Install with [Composer](https://getcomposer.org): `composer require twbs/bootstrap`.
     - RWD
         - [Media Queries] (http://mediaqueri.es/)   
-          ![alt tag](https://github.com/YanlongLai/about/blob/master/img/building.gif)
         - example
             - [demo01] (http://codepen.io/YanlongLai/pen/KpYBoN)
 
