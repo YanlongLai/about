@@ -13,7 +13,11 @@ I am a full-stack Web designer and developer with almost 7-8 years of experience
  - NTUST College | Bachelor of Computer Science `2002 - 2006`
 
 ## Work Experience 經歷
- - [NSRRC] (http://www.nsrrc.org.tw/) | Assistant Engineer `2014 – until now`
+ - [Migme] (http://mig.me/) | Web Engineer `2015 - until now`
+
+ Desing and program the integrational framework of Migme platform. 
+
+ - [NSRRC] (http://www.nsrrc.org.tw/) | Assistant Engineer `2014 – 2015`
 
  Build a new Data Center in NSRRC. The Data center can handle high data throughput transferred from the whole beamline stations. Responsible for all aspects of need from end-user stations, build java projects and user platform to complete the data arrangement, automation, storagement and analysis.  
 
