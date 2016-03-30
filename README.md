@@ -1,7 +1,5 @@
 # About Me 關於我
-I am a full-stack Web designer and developer with almost 7-8 years of experience, especially on front-end and back- end development, database and UI/UX design. Based on LAMP, I can quickly to build a prototype by new ideas. Primary languages are PHP, JavaScript/node.js and jQuery for web apps; use C/C++ to core algorithms. Now I use sail.js, is a light real-time MVC framework, to build platforms and Data Centre Development in NSRRC.
-
-Now, responsible for infrastructure and framework of the Migme platform. 
+I am a full-stack Web designer and developer with almost 7-8 years of experience, especially on front-end and back- end development, database and UI/UX design. Based on LAMP, I can quickly to build a prototype by new ideas. Primary languages are PHP, JavaScript/node.js and jQuery for web apps; use C/C++ to core algorithms. Now I use sail.js, is a light real-time MVC framework, to build platforms and Data Centre Development in NSRRC. Now, responsible for infrastructure and framework of the Migme platform. 
 
 ## Resume 履歷  
  - [Github.io] (http://yanlonglai.github.io/www/)
