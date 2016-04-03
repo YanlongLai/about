@@ -14,7 +14,7 @@ I am a full-stack Web designer and developer with almost 7-8 years of experience
 ## Work Experience 經歷
  - [Migme] (http://mig.me/) | Web Engineer `2015 - until now`
 
- ```Desing and program the integrational frameworks of Migme platform. ```
+ Desing and program the integrational frameworks of Migme platform. 
 
  - [NSRRC] (http://www.nsrrc.org.tw/) | Assistant Engineer `2014 – 2015`
 
